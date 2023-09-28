@@ -12,6 +12,11 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+### Activity Screenshots
+#### Activity 1
+![Screenshot](SS_Activity1.png)
+
+
 ### Website Preview
 <p align="center"> 
   <kbd>
