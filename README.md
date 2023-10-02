@@ -16,6 +16,12 @@
 #### Activity 1
 ![Screenshot](SS_Activity1.png)
 
+#### Activity 1
+![Screenshot](SS_Activity2_1.png)
+![Screenshot](SS_Activity2_2.png)
+
+
+
 
 ### Website Preview
 <p align="center"> 
