@@ -20,6 +20,9 @@
 ![Screenshot](SS_Activity2_1.png)
 ![Screenshot](SS_Activity2_2.png)
 
+#### Activity 3
+![Screenshot](SS_Activity3.png)
+
 
 
 
